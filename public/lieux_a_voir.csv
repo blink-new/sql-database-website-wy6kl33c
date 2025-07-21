@@ -1,0 +1,328 @@
+Lieu;R�gion;departement ;Type de lieu;Tarif;GPS (lat, long);Lien utile
+Mont Saint-Michel;Normandie;Manche (50);Monument historique;11 ? (abbaye);48.6361, -1.5115;https://www.ot-montsaintmichel.com
+Gorges du Verdon;Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04) / Var (83);Nature / Canyon;Gratuit;43.7374, 6.3630;https://www.lesgorgesduverdon.fr
+Ch�teau de Chambord;Centre-Val de Loire;Loir-et-Cher (41);Ch�teau;15 ?;47.6160, 1.5177;https://www.chambord.org
+Cit� de Carcassonne;Occitanie;Aude (11);Ville fortifi�e;9.50 ?;43.2130, 2.3517;https://www.carcassonne.org
+Calanques de Cassis;Provence-Alpes-C�te d?Azur;Bouches-du-Rh�ne (13);Parc naturel;Gratuit;43.2120, 5.5030;https://www.calanques13-parcnational.fr
+Cath�drale Notre-Dame de Paris;�le-de-France;Paris (75);Monument historique;Gratuit (visite);48.8530, 2.3499;https://www.notredamedeparis.fr
+Dune du Pilat;Nouvelle-Aquitaine;Gironde (33);Site naturel;Gratuit;44.5890, -1.2130;https://www.ladunedupilat.com
+Mus�e du Louvre;�le-de-France;Paris (75);Mus�e;17 ?;48.8606, 2.3376;https://www.louvre.fr
+Mont Blanc (Chamonix);Auvergne-Rh�ne-Alpes;Haute-Savoie (74);Montagne;Randonn�e gratuite;45.8326, 6.8652;https://www.chamonix.com
+Palais des Papes;Provence-Alpes-C�te d?Azur;Vaucluse (84);Monument historique;12.50 ?;43.9500, 4.8050;https://www.palais-des-papes.com
+Plage de la C�te des Basques;Nouvelle-Aquitaine;Pyr�n�es-Atlantiques (64);Plage;Gratuit;43.4850, -1.5600;https://www.biarritz.fr
+Grottes de Lascaux;Nouvelle-Aquitaine;Dordogne (24);Site pr�historique;15 ?;45.0533, 1.1683;https://www.lascaux.fr
+Pont du Gard;Occitanie;Gard (30);Monument historique;9 ?;43.9475, 4.5350;https://www.pontdugard.fr
+Parc du Mercantour;Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06)/Alpes-de-Haute-Provence (04);Parc naturel;Gratuit;44.1247, 7.2771;https://www.mercantour-parcnational.fr
+Ville de Strasbourg;Grand Est;Bas-Rhin (67);Ville historique;Gratuit;48.5839, 7.7455;https://www.visitstrasbourg.fr
+Abbaye de Fontenay;Bourgogne-Franche-Comt�;C�te-d'Or (21);Monument historique;10 ?;47.3611, 4.5382;https://www.fontenay.fr
+Plage de Palombaggia;Corse;Corse-du-Sud (2A);Plage;Gratuit;41.5870, 9.3723;https://www.visit-corsica.com
+Parc de la Vanoise;Auvergne-Rh�ne-Alpes;Savoie (73);Parc naturel;Gratuit;45.3515, 6.8171;https://www.vanoise-parcnational.fr
+Place Stanislas (Nancy);Grand Est;Meurthe-et-Moselle (54);Place historique;Gratuit;48.6921, 6.1845;https://www.nancy-tourisme.fr
+Ch�teau de Versailles;�le-de-France;Yvelines (78);Ch�teau;20 ?;48.8049, 2.1204;https://en.chateauversailles.fr
+Basilique du Sacr�-C?ur;�le-de-France;Paris (75);Monument religieux;Gratuit (acc�s);48.8867, 2.3431;https://www.sacre-coeur-montmartre.com
+�le de R�;Nouvelle-Aquitaine;Charente-Maritime (17);�le / Plage;Gratuit;46.1760, -1.3713;https://www.iledere.com
+Cap Corse;Corse;Haute-Corse (2B);Paysage / Nature;Gratuit;42.9333, 9.3500;https://www.capcorse-tourisme.com
+Grotte de Chauvet;Auvergne-Rh�ne-Alpes;Ard�che (07);Site pr�historique;16 ?;44.4173, 4.4036;https://www.grottechauvet2ardeche.com
+Parc National des C�vennes;Occitanie;Loz�re (48) / Gard (30) / Ard�che (07);Parc naturel;Gratuit;44.2445, 3.7641;https://www.cevennes-parcnational.fr
+Ch�teau de Chenonceau;Centre-Val de Loire;Indre-et-Loire (37);Ch�teau;15 ?;47.3247, 1.0704;https://www.chenonceau.com
+Plage de Deauville;Normandie;Calvados (14);Plage;Gratuit;49.3613, 0.0828;https://www.deauville.fr
+Cirque de Gavarnie;Occitanie;Hautes-Pyr�n�es (65);Site naturel / Randonn�e;Gratuit;42.8239, -0.0137;https://www.gavarnie.fr
+La Rochelle;Nouvelle-Aquitaine;Charente-Maritime (17);Ville historique;Gratuit (visite);46.1591, -1.1511;https://www.larochelle-tourisme.com
+Parc Ast�rix;�le-de-France;Oise (60);Parc d?attractions;55 ?;49.1231, 2.5949;https://www.parcasterix.fr
+V�zelay;Bourgogne-Franche-Comt�;Yonne (89);Village / Patrimoine;Gratuit (village);47.5167, 3.7978;https://www.vezelay-patrimoine.com
+Basilique Notre-Dame de Fourvi�re;Auvergne-Rh�ne-Alpes;Rh�ne (69);Monument religieux;Gratuit;45.7622, 4.8224;https://www.fourviere.org
+Palais du Tau (Reims);Grand Est;Marne (51);Monument historique;8 ?;49.2564, 4.0317;https://www.palaisdutau.fr
+Jardin des Plantes (Paris);�le-de-France;Paris (75);Jardin botanique;Gratuit;48.8430, 2.3555;https://www.jardindesplantesdeparis.fr
+Parc de la T�te d?Or;Auvergne-Rh�ne-Alpes;Rh�ne (69);Parc urbain;Gratuit;45.7797, 4.8526;https://www.lyon.fr/
+La Dune du Pilat;Nouvelle-Aquitaine;Gironde (33);Site naturel;Gratuit;44.5886, -1.2090;https://www.ladunedupilat.com
+Pont de Millau;Occitanie;Aveyron (12);Pont / Monument;Gratuit;44.0794, 3.0222;https://www.viaducdemillau.org
+Ch�teau de Fontainebleau;�le-de-France;Seine-et-Marne (77);Ch�teau;12.50 ?;48.4029, 2.7002;https://www.chateau-fontainebleau.fr
+Gorges de l?Ard�che;Auvergne-Rh�ne-Alpes;Ard�che (07);Site naturel;Gratuit;44.4381, 4.3730;https://www.ardeche-guide.com
+Mus�e d?Orsay;�le-de-France;Paris (75);Mus�e;16 ?;48.8599, 2.3266;https://www.musee-orsay.fr
+Ch�teau d?If (Marseille);Provence-Alpes-C�te d?Azur;Bouches-du-Rh�ne (13);Fort / �le;6 ?;43.2965, 5.3607;https://www.marseille-tourisme.com
+Stade de France;�le-de-France;Seine-Saint-Denis (93);Stade / �v�nement;Variable selon �v�nement;48.9244, 2.3601;https://www.stadefrance.com
+Parc des Buttes-Chaumont;�le-de-France;Paris (75);Parc urbain;Gratuit;48.8809, 2.3824;https://www.paris.fr
+Vall�e de la Loire;Centre-Val de Loire;Loiret (45), Loir-et-Cher (41), Indre-et-Loire (37), Maine-et-Loire (49) (multi-d�partements);R�gion viticole;Gratuit;47.3822, 0.6886;https://www.valleedelaloire.org
+Camargue;Provence-Alpes-C�te d?Azur;Bouches-du-Rh�ne (13) et Gard (30);Parc naturel;Gratuit;43.5176, 4.4243;https://www.parc-camargue.fr
+Zoo de Beauval;Centre-Val de Loire;Loir-et-Cher (41);Zoo;25 ?;47.4609, 1.3617;https://www.zoobeauval.com
+Cath�drale de Reims;Grand Est;Marne (51);Monument historique;Gratuit;49.2536, 4.0317;https://www.cathedrale-reims.com
+Ch�teau d?Azay-le-Rideau;Centre-Val de Loire;Indre-et-Loire (37);Ch�teau;11 ?;47.3285, 0.4294;https://www.chateaudazaylerideau.fr
+Mus�e Picasso (Paris);�le-de-France;Paris (75);Mus�e;14 ?;48.8606, 2.3627;https://www.museepicassoparis.fr
+�le d?Ol�ron;Nouvelle-Aquitaine;Charente-Maritime (17);�le / Plage;Gratuit;45.9519, -1.3113;https://www.iledoleron.com
+Parc du Puy du Fou;Pays de la Loire;Vend�e (85);Parc � th�me;40 ?;46.8186, -0.9713;https://www.puydufou.com
+Lac d?Annecy;Auvergne-Rh�ne-Alpes;Haute-Savoie (74);Lac / Nature;Gratuit;45.8992, 6.1294;https://www.lac-annecy.com
+Cit� des Sciences (Paris);�le-de-France;Paris (75);Mus�e interactif;12 ?;48.8967, 2.3957;https://www.cite-sciences.fr
+Mont Ventoux;Provence-Alpes-C�te d?Azur;Vaucluse (84);Montagne;Gratuit;44.1749, 5.2786;https://www.parcduventoux.fr
+Ch�teau de Haut-Koenigsbourg;Grand Est;Bas-Rhin (67);Ch�teau;9 ?;48.2233, 7.3200;https://www.haut-koenigsbourg.fr
+Lac du Bourget;Auvergne-Rh�ne-Alpes;Savoie (73);Lac;Gratuit;45.6757, 5.8932;https://www.lacdubourget.fr
+Village de Saint-Cirq-Lapopie;Occitanie;Lot (46);Village / Patrimoine;Gratuit;44.4539, 1.6364;https://www.saintcirqlapopie.fr
+Mus�e Matisse (Nice);Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06);Mus�e;10 ?;43.7030, 7.2734;https://www.musee-matisse-nice.org
+Le Mont-Dore;Auvergne-Rh�ne-Alpes;Puy-de-D�me (63);Station de ski / montagne;Variable selon saison;45.6271, 2.7947;https://www.lemontdore.net
+Les Calanques de Piana;Corse;Corse-du-Sud (2A);Site naturel / Calanques;Gratuit;42.2916, 8.6261;https://www.corsica.fr
+Les Hospices de Beaune;Bourgogne-Franche-Comt�;C�te-d'Or (21);Monument historique / Mus�e;15 ?;47.0315, 4.8414;https://www.hospices-de-beaune.com
+La Grotte de Niaux;Occitanie;Ari�ge (09);Site pr�historique;10 ?;42.8598, 1.7383;http://www.grotte-niaux.fr
+Le Cap d?Agde;Occitanie;H�rault (34);Station baln�aire;Gratuit (plage);43.2881, 3.5094;https://www.capdagde.com
+La Cit� du Vin (Bordeaux);Nouvelle-Aquitaine;Gironde (33);Mus�e / Vin;20 ?;44.8593, -0.5720;https://www.laciteduvin.com
+Le Parc naturel r�gional du Vexin Fran�ais;�le-de-France;Val-d'Oise (95), Yvelines (78);Parc naturel;Gratuit;49.1075, 1.7213;https://www.pnr-vexin-francais.fr
+Le Palais id�al du Facteur Cheval;Auvergne-Rh�ne-Alpes;Dr�me (26);Monument insolite;8 ?;44.1787, 5.1975;https://www.facteurcheval.com
+Les Hospices de Strasbourg;Grand Est;Bas-Rhin (67);Monument historique;Gratuit;48.5857, 7.7539;https://www.hospices-strasbourg.org
+Les Thermes de Vichy;Auvergne-Rh�ne-Alpes;Allier (03);Spa / Thermes;Variable;46.1267, 3.4289;https://www.vichy-spa.com
+Le Parc des Oiseaux (Villars-les-Dombes);Auvergne-Rh�ne-Alpes;Ain (01);Parc animalier;17 ?;45.9415, 4.8418;https://www.parcdesoiseaux.com
+La Cit� m�di�vale de Provins;�le-de-France;Seine-et-Marne (77);Ville historique;13 ?;48.5606, 3.3033;https://www.provins.net
+Le Ch�teau de Pierrefonds;Hauts-de-France;Oise (60);Ch�teau;9.50 ?;49.3719, 3.1170;https://www.chateau-pierrefonds.fr
+Le Mont Saint-Odile;Grand Est;Bas-Rhin (67);Site religieux / Nature;Gratuit;48.4170, 7.4643;https://www.mont-saint-odile.fr
+Le Parc du Thabor (Rennes);Bretagne;Ille-et-Vilaine (35);Jardin public;Gratuit;48.1110, -1.6757;https://www.tourisme-rennes.com
+La R�serve Naturelle de Scandola;Corse;Corse-du-Sud (2A);R�serve naturelle;Gratuit;42.4082, 8.6824;https://www.reserves-naturelles.org
+Le Zoo de la Fl�che;Pays de la Loire;Sarthe (72);Zoo;25 ?;47.7005, 0.0172;https://www.zoo-la-fleche.com
+Le Fort Boyard;Nouvelle-Aquitaine;Charente-Maritime (17);Fort / Monument;Visite bateau payante;45.9493, -1.2357;https://www.fort-boyard.fr
+La Plage d?Etretat;Normandie;Seine-Maritime (76);Plage / Falaises;Gratuit;49.7065, 0.1956;https://www.etretat-tourisme.fr
+Le Parc naturel r�gional du Morvan;Bourgogne-Franche-Comt�;Ni�vre (58), Sa�ne-et-Loire (71), C�te-d'Or (21), Yonne (89);Parc naturel;Gratuit;47.1445, 4.0010;https://www.parcdumorvan.org
+La Grotte de Clamouse;Occitanie;H�rault (34);Site naturel / Grotte;12 ?;43.9729, 3.5176;https://www.grotte-de-clamouse.fr
+La Cit� des Sciences et de l?Industrie (Paris);�le-de-France;Paris (75);Mus�e;12 ?;48.8967, 2.3957;https://www.cite-sciences.fr
+Le Pont d?Arc (Gorges de l?Ard�che);Auvergne-Rh�ne-Alpes;Ard�che (07);Site naturel;Gratuit;44.4290, 4.3762;https://www.gorges-ardeche.com
+La Maison de la Magie (Blois);Centre-Val de Loire;Loir-et-Cher (41);Mus�e magique;8 ?;47.5849, 1.3312;https://www.maisondelamagie.fr
+La Vall�e des Saints (Bretagne);Bretagne;C�tes-d'Armor (22);Site artistique en plein air;Gratuit;48.3142, -3.4907;https://www.lavalleedessaints.com
+La Cascade du H�risson;Bourgogne-Franche-Comt�;Jura (39);Site naturel;Gratuit;46.7064, 5.8972;https://www.cascadesduherisson.com
+La Baie de Somme;Hauts-de-France;Somme (80);Site naturel;Gratuit;50.1927, 1.6001;https://www.baiedesomme.fr
+Le Ch�teau de Villandry;Centre-Val de Loire;Indre-et-Loire (37);Ch�teau et jardins;12 ?;47.3121, 0.5333;https://www.chateauvillandry.fr
+Le Cirque de Navacelles;Occitanie;H�rault (34) / Gard (30);Site naturel;Gratuit;43.9295, 3.4756;https://www.languedoc-roussillon-tourisme.fr
+Le Palais des Festivals (Cannes);Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06);Monument / �v�nement;Variable selon �v�nements;43.5528, 7.0174;https://www.cannes-destination.fr
+Le Ch�teau de Salses;Occitanie;Pyr�n�es-Orientales (66);Ch�teau;7 ?;42.7763, 2.9073;https://www.salses-levillage.fr
+La Camargue;Provence-Alpes-C�te d?Azur;Bouches-du-Rh�ne (13) / Gard (30);Parc naturel;Gratuit;43.5200, 4.4300;https://www.parc-camargue.fr
+Le Jardin Majorelle (Paris);�le-de-France;Paris (75);Jardin priv�;10 ?;48.8566, 2.3522;https://www.jardinmajorelleparis.fr
+La For�t de Fontainebleau;�le-de-France;Seine-et-Marne (77);For�t / Nature;Gratuit;48.4063, 2.6876;https://www.fontainebleau-tourisme.com
+Le Cirque de Gavarnie;Occitanie;Hautes-Pyr�n�es (65);Site naturel;Gratuit;42.8239, -0.0137;https://www.gavarnie.fr
+Le Mus�e des Confluences (Lyon);Auvergne-Rh�ne-Alpes;Rh�ne (69);Mus�e;9 ?;45.7447, 4.8181;https://www.museedesconfluences.fr
+Les Jardins de Villandry;Centre-Val de Loire;Indre-et-Loire (37);Jardins;12 ?;47.3121, 0.5332;https://www.villandry.org
+Le Palais Royal (Paris);�le-de-France;Paris (75);Palais / Monument;Gratuit;48.8656, 2.3364;https://www.palais-royal.fr
+La Vall�e de la Loire;Centre-Val de Loire;Loir-et-Cher (41), Indre-et-Loire (37), Maine-et-Loire (49), Loiret (45);R�gion viticole;Gratuit;47.3941, 0.6892;https://www.valleedelaloire.fr
+Le Lac de Serre-Pon�on;Provence-Alpes-C�te d?Azur;Hautes-Alpes (05) / Alpes-de-Haute-Provence (04);Lac / Activit�s nautiques;Gratuit;44.5500, 6.5667;https://www.serre-poncon.com
+La C�te d?Opale;Hauts-de-France;Pas-de-Calais (62);C�te / Plage;Gratuit;50.7500, 1.6000;https://www.cotediopale.fr
+La Place des Vosges (Paris);�le-de-France;Paris (75);Place historique;Gratuit;48.8554, 2.3654;https://www.paris.fr/place-des-vosges
+Le Ch�teau de Castelnaud;Occitanie;Dordogne (24);Ch�teau m�di�val;9 ?;44.7951, 1.1397;https://www.castelnaud.com
+Le Parc National des �crins;Provence-Alpes-C�te d?Azur;Hautes-Alpes (05) / Is�re (38);Parc naturel;Gratuit;44.8667, 6.2667;https://www.ecrins-parcnational.fr
+La Falaise d?Etretat;Normandie;Seine-Maritime (76);Site naturel;Gratuit;49.7065, 0.1956;https://www.etretat-tourisme.fr
+Le Ch�teau de Chantilly;Hauts-de-France;Oise (60);Ch�teau et Mus�e;17 ?;49.1883, 2.4917;https://www.domainedechantilly.com
+La Route des Vins d?Alsace;Grand Est;Bas-Rhin (67) / Haut-Rhin (68);Route touristique;Gratuit;48.1645, 7.3346;https://www.alsace-wine-route.com
+La Cascade de Sillans;Provence-Alpes-C�te d?Azur;Var (83);Cascade naturelle;Gratuit;43.7231, 6.1981;https://www.sillans-la-cascade.fr
+Le Mus�e du Quai Branly (Paris);�le-de-France;Paris (75);Mus�e;12 ?;48.8606, 2.2975;https://www.quaibranly.fr
+Le Jardin des Plantes (Nantes);Pays de la Loire;Loire-Atlantique (44);Jardin botanique;Gratuit;47.2098, -1.5560;https://www.nantes.fr/jardin-des-plantes
+Le Ch�teau de Bonaguil;Nouvelle-Aquitaine;Lot-et-Garonne (47);Ch�teau m�di�val;8 ?;44.5833, 0.9175;https://www.chateau-bonaguil.fr
+La Pointe du Raz;Bretagne;Finist�re (29);Site naturel;Gratuit;48.0535, -4.7267;https://www.pointe-du-raz.com
+La Grotte de Pech Merle;Occitanie;Lot (46);Site pr�historique;10 ?;44.4416, 2.0706;https://www.pechmerle.com
+Le Mus�e Rodin (Paris);�le-de-France;Paris (75);Mus�e;12 ?;48.8557, 2.3158;https://www.musee-rodin.fr
+Le Parc de Sceaux;�le-de-France;Hauts-de-Seine (92);Parc et ch�teau;Gratuit;48.7648, 2.2886;https://www.domaine-de-sceaux.fr
+Le Palais des Papes (Avignon);Provence-Alpes-C�te d?Azur;Vaucluse (84);Monument historique;12,50 ?;43.9500, 4.8050;https://www.palais-des-papes.com
+La Basilique Saint-Sernin;Occitanie;Haute-Garonne (31);�glise / Monument;Gratuit;43.6045, 1.4423;https://www.saint-sernin-toulouse.fr
+Le Fort de Br�gan�on;Provence-Alpes-C�te d?Azur;Var (83);Fort / R�sidence pr�sidentielle;Visite guid�e payante;43.1006, 6.3908;https://www.bregancon.fr
+La Caverne du Pont d?Arc (Grotte Chauvet);Auvergne-Rh�ne-Alpes;Ard�che (07);R�plique grotte pr�historique;15 ?;44.4236, 4.3872;https://www.cavernedupontdarc.fr
+Le Village des Bories;Provence-Alpes-C�te d?Azur;Vaucluse (84);Village historique;7 ?;43.9193, 5.2158;https://www.village-bories.com
+Le Jardin exotique de Monaco;Provence-Alpes-C�te d?Azur;Monaco (Principaut�);Jardin botanique;7,50 ?;43.7310, 7.4250;https://www.jardin-exotique.mc
+La Route Napol�on;Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04) / Alpes-Maritimes (06) / Hautes-Alpes (05) / Alpes-Maritimes (06);Route touristique;Gratuit;44.0216, 6.7300;https://www.route-napoleon.com
+Le Mus�e de la R�sistance de Lyon;Auvergne-Rh�ne-Alpes;Rh�ne (69);Mus�e;6 ?;45.7650, 4.8340;https://www.musee-resistance.com
+Le Ch�teau de Chillon;Auvergne-Rh�ne-Alpes;Vaud (Suisse);Ch�teau m�di�val;13,50 ?;46.4142, 6.9270;https://www.chillon.ch/fr
+La For�t de Broc�liande;Bretagne;Ille-et-Vilaine (35);For�t l�gendaire;Gratuit;48.0385, -2.1746;https://www.broceliande-vacances.com
+Le Pont du Gard;Occitanie;Gard (30);Aqueduc romain;9 ?;43.9475, 4.5358;https://www.pontdugard.fr
+La Basilique du Sacr�-C?ur;�le-de-France;Paris (75);�glise / Monument;Gratuit;48.8867, 2.3431;https://www.sacre-coeur-montmartre.com
+Le Parc de la T�te d?Or;Auvergne-Rh�ne-Alpes;Rh�ne (69);Parc urbain / Zoo;Gratuit;45.7797, 4.8520;https://www.lyon.fr/parc-tete-dor
+Le Mont Aiguille;Auvergne-Rh�ne-Alpes;Is�re (38);Sommet montagne;Gratuit;44.8993, 5.4751;https://www.isere-tourisme.com/mont-aiguille
+Le Ch�teau de Saumur;Pays de la Loire;Maine-et-Loire (49);Ch�teau;10 ?;47.2528, -0.0807;https://www.chateau-saumur.fr
+La Plage de Palombaggia;Corse;Corse-du-Sud (2A);Plage;Gratuit;41.5833, 9.3300;https://www.visit-corsica.com
+Le Parc Animalier de Sainte-Croix;Grand Est;Moselle (57);Parc animalier;25 ?;48.7770, 7.1966;https://www.sainte-croix.fr
+Le Ch�teau de Haut-Koenigsbourg;Grand Est;Bas-Rhin (67);Ch�teau m�di�val;9 ?;48.2242, 7.3097;https://www.haut-koenigsbourg.fr
+Le Mus�e d?Orsay;�le-de-France;Paris (75);Mus�e;16 ?;48.8600, 2.3266;https://www.musee-orsay.fr
+La Cit� de l?Espace;Occitanie;Haute-Garonne (31);Parc scientifique;20 ?;43.6108, 1.4605;https://www.cite-espace.com
+Le Chemin de Saint-Jacques-de-Compostelle (via Puy-en-Velay);Auvergne-Rh�ne-Alpes;Haute-Loire (43);Sentier de p�lerinage;Gratuit;45.0429, 3.8852;https://www.cheminscompostelle.com
+La Grande Roue de Paris;�le-de-France;Paris (75);Attraction touristique;12 ?;48.8606, 2.2901;https://www.granderouedeparis.fr
+Le Parc naturel r�gional des Ballons des Vosges;Grand Est;Vosges (88), Haut-Rhin (68), Haute-Sa�ne (70), Territoire de Belfort (90);Parc naturel;Gratuit;47.9000, 7.1000;https://www.parc-ballons-vosges.fr
+La Station de ski de La Plagne;Auvergne-Rh�ne-Alpes;Savoie (73);Station de ski;Variable selon saison;45.5046, 6.6982;https://www.la-plagne.com
+Le Mus�e Picasso (Antibes);Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06);Mus�e d?art;7 ?;43.5800, 7.1260;https://www.antibes-juanlespins.com/musee-picasso
+Dune de Biville;Normandie;Manche (50);Dune / Plage sauvage;Gratuit;49.6650, -1.7400;https://www.normandie-tourisme.fr
+Les Aiguilles de Port-Coton;Bretagne (Belle-�le);Morbihan (56);Formations rocheuses;Gratuit;47.2618, -3.1951;https://www.belle-ile.com
+La For�t de Brotonne;Normandie;Seine-Maritime (76);For�t / Nature;Gratuit;49.4261, 0.6058;https://www.normandie-tourisme.fr
+La R�serve Naturelle de la Baie de l?Aiguillon;Nouvelle-Aquitaine;Charente-Maritime (17) / Vend�e (85);R�serve naturelle;Gratuit;46.2106, -1.2577;https://www.reserves-naturelles.org
+La Falaise d?Yport;Normandie;Seine-Maritime (76);Falaise / Plage;Gratuit;49.8439, 0.3080;https://www.etretat-tourisme.fr
+La Cascade de Mortain;Normandie;Manche (50);Cascade;Gratuit;48.8333, -0.9000;https://www.normandie-tourisme.fr
+La Plage de Tahiti (Port-Camargue);Occitanie;Gard (30);Plage sauvage;Gratuit;43.7360, 4.1750;https://www.port-camargue.fr
+Les Marais de Brouage;Nouvelle-Aquitaine;Charente-Maritime (17);Marais / Nature;Gratuit;45.7821, -0.8269;https://www.brouage-tourisme.com
+Le Plateau de Valensole;Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04);Plateau / Nature;Gratuit;43.7781, 6.0070;https://www.valensole.fr
+Les Gorges du Tarn;Occitanie;Loz�re (48), Aveyron (12);Gorges / Nature;Gratuit;44.1769, 3.1184;https://www.tarn-tourisme.fr
+La Presqu?�le de Crozon;Bretagne;Finist�re (29);Presqu?�le sauvage;Gratuit;48.2670, -4.4500;https://www.presquiledecrozon.com
+La Vall�e de la Restonica;Corse;Haute-Corse (2B);Vall�e / Randonn�e;Gratuit;42.2628, 9.1444;https://www.corsica.fr
+Le Lac Bleu (Gorges de l?H�rault);Occitanie;H�rault (34);Lac naturel;Gratuit;43.7531, 3.4847;https://www.herault-tourisme.com
+Le Massif des Bauges;Auvergne-Rh�ne-Alpes;Savoie (73), Haute-Savoie (74);Massif montagneux;Gratuit;45.7200, 6.1500;https://www.massif-bauges.com
+La Pointe de Pen-Hir;Bretagne;Finist�re (29);Pointe rocheuse;Gratuit;48.2800, -4.4700;https://www.brittanytourism.com
+La C�te de Granit Rose;Bretagne;C�tes-d'Armor (22);C�te rocheuse / Plage;Gratuit;48.8511, -3.4651;https://www.cotedemeraude.com
+La For�t de la Coubre;Nouvelle-Aquitaine;Charente-Maritime (17);For�t / Plage;Gratuit;45.6713, -1.1439;https://www.larochelle-tourisme.com
+Vol en montgolfi�re;Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04) et alentours;Activit� a�rienne;150-250 ? / personne;43.9500, 6.9000;https://www.aerophile.com/montgolfiere-provence
+Sp�l�ologie dans les Causses;Occitanie;Loz�re (48) et Aveyron (12);Exploration souterraine;40-80 ? / pers.;44.1900, 3.1300;https://www.speleologie-occitanie.fr
+Plong�e sous-marine en M�diterran�e;Provence-Alpes-C�te d?Azur;Bouches-du-Rh�ne (13);Plong�e;50-100 ? / plong�e;43.2800, 5.4000;https://www.plongee-cotedazur.com
+Bivouac en pleine nature;Alpes / Pyr�n�es;(variable, activit� itin�rante);Camping sauvage;Gratuit / selon lieu;Selon lieu;https://www.bivouac.fr
+D�gustation de vins en barrique;Bordeaux / Bourgogne;Gironde (33) (Bordeaux);Oenotourisme;20-40 ? / s�ance;44.8412, -0.5800;https://www.bordeaux.com
+Saut � l?�lastique;Auvergne-Rh�ne-Alpes;Savoie (73) ou alentours;Sensations fortes;80-150 ? / saut;45.7742, 5.9330;https://www.saut-elastique.fr
+Balade en kayak dans les gorges;Occitanie / Ard�che;Ard�che (07);Kayak / Nature;20-50 ? / demi-journ�e;44.4350, 4.3500;https://www.kayak-ardeche.com
+Construction de yourte;Massif Central;Puy-de-D�me (63);Atelier / Stage;100-200 ? / jour;45.3500, 3.0800;https://www.yourtesdumassifcentral.fr
+Visite d?une distillerie de calvados;Normandie;Calvados (14);Visite et d�gustation;10-20 ?;49.1825, 0.3312;https://www.calvados.fr
+Cours de cuisine truffi�re;Provence-Alpes-C�te d?Azur;Vaucluse (84) ou Alpes-de-Haute-Provence (04);Atelier culinaire;70-120 ?;43.6672, 5.5400;https://www.atelier-truffe.fr
+Randonn�e avec �ne;Nouvelle-Aquitaine;Lot (46);Randonn�e atypique;30-60 ? / jour;44.7000, 1.2000;https://www.randonnee-ane.fr
+Vol en avion de chasse;Occitanie;Haute-Garonne (31) (proche Toulouse);Vol sensation;300-600 ?;43.6278, 1.4406;https://www.volaviondechasse.fr
+Stage de forge;Auvergne-Rh�ne-Alpes;Rh�ne (69);Artisanat / Stage;80-150 ? / jour;45.7000, 4.8000;https://www.stage-forge.fr
+Cueillette de plantes sauvages;Provence-Alpes-C�te d?Azur;Var (83);Activit� nature;50-100 ? / session;43.5000, 6.1000;https://www.cueillette-plantes.fr
+Balade en fatbike �lectrique;Alpes;Haute-Savoie (74);VTT �lectrique;30-50 ? / demi-journ�e;45.9200, 6.8500;https://www.fatbike-alpes.fr
+Construction d?un igloo;Alpes;Haute-Savoie (74);Activit� hiver / survie;60-120 ?;45.9200, 6.8500;https://www.iglooexperience.fr
+Visite d?un observatoire astronomie;Occitanie;H�rault (34);Observation astronomique;10-15 ?;43.5400, 2.8700;https://www.observatoire-cassiopee.fr
+Escalade en falaise;Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04);Sport outdoor;Gratuit ou encadrement payant;43.7000, 6.3000;https://www.ffme.fr
+P�che en mer au large;Bretagne;Finist�re (29);Activit� nautique;50-100 ? / sortie;48.4000, -4.5000;https://www.peche-en-mer.fr
+Atelier de cr�ation de parfum;Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04);Atelier cr�atif;60-120 ?;43.9341, 6.0679;https://www.atelier-parfum-grasse.fr
+Nuit en bulle transparente;Nouvelle-Aquitaine;Gironde (33);H�bergement insolite;100-200 ? / nuit;44.7500, -0.5500;https://www.nuitenbulle.fr
+Randonn�e en raquettes � neige;Auvergne-Rh�ne-Alpes;Haute-Savoie (74);Randonn�e hivernale;20-40 ? / demi-journ�e;45.9200, 6.8000;https://www.raquettes-rando.fr
+Initiation au pilotage de drone;�le-de-France;Paris (75);Atelier / Formation;80-150 ? / session;48.8606, 2.3376;https://www.pilotagedrone.fr
+D�couverte de la c�ramique;Grand Est;Bas-Rhin (67) (Strasbourg);Atelier artisanal;40-80 ? / session;48.5839, 7.7455;https://www.atelierceramique.fr
+Visite nocturne de ch�teau hant�;Normandie;Calvados (14);Visite guid�e th�matique;15-25 ?;49.1170, 0.4500;https://www.chateau-hante-normandie.fr
+Cours de fabrication de fromage;Auvergne;Puy-de-D�me (63);Atelier culinaire;50-80 ? / session;45.5550, 3.0850;https://www.fromage-auvergne.fr
+Parapente au-dessus des Pyr�n�es;Occitanie;Hautes-Pyr�n�es (65);Vol sportif;70-120 ? / vol;42.7750, 0.3900;https://www.parapente-pyrenees.fr
+Initiation � la survie en for�t;Nouvelle-Aquitaine;Dordogne (24);Stage / Aventure;100-150 ? / jour;45.1500, 0.7200;https://www.stage-survie.fr
+Balade � cheval sur la plage;Bretagne;C�tes-d'Armor (22);Randonn�e �questre;40-80 ? / heure;48.6000, -3.0000;https://www.cheval-plage.fr
+Cours de sculpture sur glace;Auvergne-Rh�ne-Alpes;Haute-Savoie (74);Atelier artistique;70-150 ? / session;45.9200, 6.8500;https://www.glacesculpture.fr
+Observation des �toiles en montagne;Occitanie;Pyr�n�es-Orientales (66);Activit� nature nocturne;Gratuit / guide;42.8000, 2.9000;https://www.observatoire-etoiles.fr
+Vol en parapente biplace;Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06);Sensations fortes;80-150 ?;43.6700, 6.9410;https://www.parapente-cote-azur.fr
+Atelier de vannerie;Bretagne;Ille-et-Vilaine (35);Artisanat traditionnel;50-100 ? / session;48.1200, -2.2800;https://www.vannerie-bretagne.fr
+Balade en paddle sur rivi�re;Occitanie;Tarn (81);Activit� nautique;20-40 ? / demi-journ�e;43.6200, 2.7000;https://www.paddle-occitanie.fr
+Stage de pilotage de voiture de course;�le-de-France;Hauts-de-Seine (92);Sport automobile;150-300 ? / session;48.8150, 2.2800;https://www.pilotage-circuit.fr
+Visite de ferme en permaculture;Nouvelle-Aquitaine;Gironde (33);�cologie / D�couverte;Gratuit ou donation;44.7000, -0.5900;https://www.permaculture.fr
+Bapt�me de plong�e sous-marine;Corse;Corse-du-Sud (2A);Initiation plong�e;50-80 ? / s�ance;41.9000, 9.5000;https://www.plongee-corse.fr
+Randonn�e nocturne avec lampes frontales;Provence-Alpes-C�te d?Azur;Var (83);Randonn�e atypique;15-30 ? / personne;43.5000, 6.1000;https://www.rando-nocturne.fr
+Construction d?un radeau;Bretagne;Finist�re (29);Atelier collectif;40-80 ? / session;48.3900, -4.4800;https://www.raftbuilding.fr
+Atelier de fabrication de chocolat;�le-de-France;Paris (75);Atelier culinaire;50-100 ? / session;48.8600, 2.3400;https://www.chocolatatelier.fr
+La Roche aux F�es (M�galithe);Pays de la Loire;Ille-et-Vilaine (35);Site m�galithique;Gratuit;47.7400, -1.3800;https://www.loire-atlantique.fr
+Le Saut de la Pucelle (cascade);Auvergne-Rh�ne-Alpes;Is�re (38);Cascade / Nature;Gratuit;45.5232, 5.6784;https://www.auvergne-rhone-alpes-tourisme.fr
+Le Gouffre de Proumeyssac;Nouvelle-Aquitaine;Dordogne (24);Grotte;12 ?;45.1230, 0.9245;https://www.gouffredeproumeyssac.com
+Le Plateau d?Emparis;Provence-Alpes-C�te d?Azur;Is�re (38), Hautes-Alpes (05);Plateau sauvage;Gratuit;44.9600, 6.0120;https://www.grandtourma.fr
+Les Cascades du H�risson;Bourgogne-Franche-Comt�;Jura (39);Cascade / Randonn�e;Gratuit;46.6800, 5.9220;https://www.jura-tourism.com
+Le Marais de Sacy;�le-de-France;Oise (60);Marais naturel;Gratuit;49.0712, 2.4590;https://www.iledefrance.fr
+Le Cirque de Moureze;Occitanie;H�rault (34);Cirque rocheux;Gratuit;43.6470, 3.3500;https://www.herault-tourisme.com
+La Plage de l?�le Vierge;Bretagne;Finist�re (29);Plage isol�e;Gratuit;48.3535, -4.4602;https://www.bretagne.com
+Le Village de Castelnau-de-Montmiral;Occitanie;Tarn (81);Village m�di�val;Gratuit;43.9291, 1.8685;https://www.tourisme-occitanie.fr
+Le Sentier des Douaniers (GR34);Bretagne;C�tes-d'Armor (22);Randonn�e c�ti�re;Gratuit;48.4500, -3.5500;https://www.gr34.fr
+Le Bois de Pa�olive;Occitanie;Ard�che (07);For�t rocheuse;Gratuit;44.3856, 4.3900;https://www.tourisme-ardeche.com
+Les Aiguilles de Bavella;Corse;Corse-du-Sud (2A);Pic montagneux;Gratuit;41.8500, 9.0400;https://www.corsica.fr
+La Grotte de la Balme;Auvergne-Rh�ne-Alpes;Is�re (38);Grotte;7 ?;45.7167, 5.7167;https://www.grottebalme.fr
+La Vall�e des Saints;Bretagne;C�tes-d'Armor (22);Site sculpt�;Gratuit;48.1793, -3.5222;https://www.valleedesaints.com
+Le Lac de Gaube;Nouvelle-Aquitaine;Hautes-Pyr�n�es (65);Lac de montagne;Gratuit;42.9706, -0.1506;https://www.lourdes-infotourisme.com
+Les Jardins Suspendus de Marqueyssac;Nouvelle-Aquitaine;Dordogne (24);Jardins / Nature;7.5 ?;44.9000, 0.7500;https://www.marqueyssac.com
+La Cascade de Rouget;Auvergne-Rh�ne-Alpes;Haute-Savoie (74);Cascade;Gratuit;45.9547, 6.6260;https://www.savoie-mont-blanc.com
+Le Village de La Gacilly;Bretagne;Morbihan (56);Village artistique;Gratuit;47.8340, -2.1770;https://www.lagacilly.com
+La Cascade de Saint-Beno�t;Bourgogne-Franche-Comt�;C�te-d'Or (21);Cascade / Randonn�e;Gratuit;47.3000, 5.2800;https://www.bourgogne-tourisme.fr
+Les Rochers Sculpt�s de Roth�neuf;Bretagne;Ille-et-Vilaine (35);Sculpture / Rocher;Gratuit;48.6100, -1.9800;https://www.rochersrotheneuf.com
+Le Cirque de Saint-M�me;Auvergne-Rh�ne-Alpes;Is�re (38), Savoie (73);Cirque naturel / Cascade;Gratuit;45.2920, 5.9250;https://www.chambery-tourisme.fr
+La Chapelle Sainte-Croix;Corse;Haute-Corse (2B);Chapelle isol�e;Gratuit;42.3800, 9.1400;https://www.corsica.fr
+Le Gouffre d?Enfer;Pays de la Loire;Loire-Atlantique (44);Gouffre / Nature;Gratuit;47.4562, -1.5163;https://www.loire-atlantique.fr
+Le Village Troglodyte de Rochemenier;Pays de la Loire;Maine-et-Loire (49);Habitat troglodyte;6 ?;47.0977, -0.8254;https://www.rochemenier.fr
+Le Lac de Pierre-Ch�tel;Auvergne-Rh�ne-Alpes;Is�re (38);Lac naturel;Gratuit;45.3260, 5.7380;https://www.isere-tourisme.com
+Le Plateau de Sault;Occitanie;Aude (11);Plateau / Nature;Gratuit;42.8855, 2.1456;https://www.aude-tourisme.com
+Les Gorges du Verdon (hors saison);Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04), Var (83);Gorges / Nature;Gratuit;43.7370, 6.3580;https://www.lacduverdon.fr
+La Presqu?�le de Quiberon;Bretagne;Morbihan (56);Presqu?�le sauvage;Gratuit;47.4970, -3.1030;https://www.quiberon-tourisme.fr
+Le Pont du Diable (H�rault);Occitanie;H�rault (34);Pont m�di�val / Nature;Gratuit;43.7945, 3.5123;https://www.herault-tourisme.com
+Le Ch�teau de Kergu�hennec;Bretagne;Morbihan (56);Ch�teau / Parc;Gratuit;47.9840, -2.5100;https://www.kerguehennec.fr
+Le Rocher de la Vierge;Nouvelle-Aquitaine;Pyr�n�es-Atlantiques (64);Rocher / Vue panoramique;Gratuit;43.4837, -1.5586;https://www.biarritz.fr
+Le Mus�e des Arts et M�tiers;�le-de-France;Paris (75);Mus�e insolite;8-12 ?;48.8660, 2.3600;https://www.arts-et-metiers.net
+Le Jardin des Martels;Occitanie;Tarn (81);Jardin botanique;8-12 ?;43.6682, 2.0306;https://www.jardindesmartels.com
+Le Parc naturel r�gional des Landes de Gascogne;Nouvelle-Aquitaine;Gironde (33), Landes (40);Parc naturel;Gratuit;44.5000, -0.7500;https://www.parc-landes-gascogne.fr
+Le Fort du Portalet;Nouvelle-Aquitaine;Pyr�n�es-Atlantiques (64);Fort historique;Gratuit;42.8575, -0.4050;https://www.forteresse-historique.fr
+La Baie de l?Aiguillon;Nouvelle-Aquitaine;Charente-Maritime (17), Vend�e (85);Baie / R�serve naturelle;Gratuit;46.2240, -1.2700;https://www.baieaiguillon.fr
+La Chapelle Saint-Michel d?Aiguilhe;Auvergne;Haute-Loire (43);Chapelle unique;5 ?;45.0405, 3.8820;https://www.aiguilhe.fr
+Le Vallon de la Solitude;Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06);Vallon / Nature;Gratuit;43.7167, 6.9167;https://www.visitcotedazur.fr
+La Cascade du Queureuilh;Occitanie;Ari�ge (09);Cascade / Randonn�e;Gratuit;42.9378, 1.4940;https://www.ariege-tourisme.com
+Le Village abandonn� de Goussaincourt;Grand Est;Meuse (55);Village abandonn�;Gratuit;48.8533, 5.4000;https://www.meuse-tourisme.com
+Le Canyon du Verdon (moins fr�quent�);Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04);Gorges / Nature;Gratuit;43.7600, 6.2600;https://www.lacduverdon.fr
+Le Rocher des Faux-Amants;Bourgogne-Franche-Comt�;C�te-d'Or (21);Rocher / L�gende;Gratuit;47.3500, 5.1167;https://www.cotedor-tourisme.com
+La Grotte de la Verna;Occitanie;Ari�ge (09);Grotte / Sp�l�ologie;20 ?;42.7700, 1.5270;https://www.grotte-verna.com
+La Chapelle Saint-S�bastien;Bretagne;Finist�re (29);Chapelle isol�e;Gratuit;48.4000, -4.3500;https://www.finistere-tourisme.com
+Le Moulin de Daudet;Provence-Alpes-C�te d?Azur;Bouches-du-Rh�ne (13);Moulin historique;5 ?;43.6958, 4.8269;https://www.moulin-daudet.fr
+Le Village de Roussillon;Provence-Alpes-C�te d?Azur;Vaucluse (84);Village / Ocres;Gratuit;43.9295, 5.3446;https://www.rousillon.fr
+La Plage de l?Espiguette;Occitanie;Gard (30);Plage sauvage;Gratuit;43.5120, 4.2500;https://www.camargue.fr
+Le Jardin de la Louve;Occitanie;H�rault (34);Jardin / Art;8 ?;43.5333, 3.5333;https://www.jardindelalouve.com
+Le Fort de La Pr�e;Nouvelle-Aquitaine;Charente-Maritime (17);Fort historique;Gratuit;46.1600, -1.1500;https://www.fortdelapree.fr
+Le Lac de Saint-And�ol;Auvergne-Rh�ne-Alpes;Puy-de-D�me (63);Lac volcanique;Gratuit;45.5200, 3.3230;https://www.auvergne-tourisme.info
+Le Village de Brousse-le-Ch�teau;Occitanie;Aveyron (12);Village m�di�val;Gratuit;44.1300, 2.6500;https://www.brousselechateau.fr
+Le Parc naturel r�gional du Queyras;Provence-Alpes-C�te d?Azur;Hautes-Alpes (05);Parc naturel;Gratuit;44.7500, 6.9500;https://www.parc-du-queyras.fr
+La Chapelle Saint-Hubert;Grand Est;Moselle (57);Chapelle historique;Gratuit;49.0833, 6.5500;https://www.moselle-tourisme.com
+Le Village de Lagrasse;Occitanie;Aude (11);Village m�di�val;Gratuit;43.0567, 2.6100;https://www.lagrasse.fr
+La Dune de Biville;Normandie;Manche (50);Dune / Nature;Gratuit;49.4270, -1.5680;https://www.normandie-tourisme.fr
+Le Ch�teau de Lavardin;Centre-Val de Loire;Loir-et-Cher (41);Ch�teau m�di�val;Gratuit;47.7365, 0.9990;https://www.tourisme-loir-et-cher.fr
+Le Sentier des Ocres � Roussillon;Provence-Alpes-C�te d?Azur;Vaucluse (84);Sentier / Ocres;3-6 ?;43.9306, 5.3441;https://www.roussillon-tourisme.com
+Le Village de Gordes;Provence-Alpes-C�te d?Azur;Vaucluse (84);Village pittoresque;Gratuit;43.9200, 5.2439;https://www.gordes-village.com
+Le Lac de Sainte-Croix;Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04);Lac / Nature;Gratuit;43.7685, 6.2170;https://www.lac-sainte-croix.com
+Le Chemin de la Corniche des C�vennes;Occitanie;Loz�re (48);Route panoramique;Gratuit;44.3300, 3.7500;https://www.lozere-tourisme.com
+Le Village de Conques;Occitanie;Aveyron (12);Village m�di�val;Gratuit;44.5986, 2.5267;https://www.conques-tourisme.com
+Le Jardin japonais de Toulouse;Occitanie;Haute-Garonne (31);Jardin / Zen;3-5 ?;43.5911, 1.4600;https://www.jardin-japonais-toulouse.com
+La Plage d?�tretat;Normandie;Seine-Maritime (76);Plage / Falaises;Gratuit;49.7094, 0.1990;https://www.etretat-tourisme.fr
+Le Village de Sainte-Enimie;Occitanie;Loz�re (48);Village m�di�val;Gratuit;44.2521, 3.2172;https://www.sainte-enimie.com
+Les Orgues d?Ille-sur-T�t;Occitanie;Pyr�n�es-Orientales (66);Formation g�ologique;Gratuit;42.6580, 2.5270;https://www.orgues-ille-sur-tet.fr
+Le Ch�teau de Beynac;Nouvelle-Aquitaine;Dordogne (24);Ch�teau m�di�val;8-12 ?;44.8916, 1.1592;https://www.chateau-beynac.com
+La Corniche Basque;Nouvelle-Aquitaine;Pyr�n�es-Atlantiques (64);Route panoramique;Gratuit;43.3730, -1.6700;https://www.tourisme-paysbasque.fr
+Le Village de Moustiers-Sainte-Marie;Provence-Alpes-C�te d?Azur;Alpes-de-Haute-Provence (04);Village proven�al;Gratuit;43.8333, 6.2167;https://www.moustiers.fr
+La For�t de Huelgoat;Bretagne;Finist�re (29);For�t / Mythes;Gratuit;48.2957, -3.6722;https://www.finistere-tourisme.com
+Le Pont d?Arc;Auvergne-Rh�ne-Alpes;Ard�che (07);Pont naturel;Gratuit;44.3973, 4.3955;https://www.ardeche-guide.com
+Les Plages du D�barquement;Normandie;Calvados (14);Plages historiques;Gratuit;49.3833, -0.8667;https://www.normandie-tourisme.fr
+Le Lac Pavin;Auvergne-Rh�ne-Alpes;Puy-de-D�me (63);Lac volcanique;Gratuit;45.5000, 2.9833;https://www.auvergne-tourisme.info
+Le Village de Saint-Cirq-Lapopie;Occitanie;Lot (46);Village m�di�val;Gratuit;44.4640, 1.5800;https://www.saint-cirq-lapopie.fr
+La Route des Cr�tes;Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06);Route panoramique;Gratuit;44.0800, 6.9300;https://www.cotedazur-tourisme.com
+Le Jardin de l?Arquebuse;Bourgogne-Franche-Comt�;C�te-d?Or (21);Jardin botanique;4-6 ?;47.3200, 5.0400;https://www.bourgogne-tourisme.com
+La Grotte Chauvet (reproduction);Auvergne-Rh�ne-Alpes;Ard�che (07);Mus�e / Pr�histoire;14-18 ?;44.4333, 4.4000;https://www.caverne-du-pont-darc.fr
+La Plage de la C�te Sauvage;Nouvelle-Aquitaine;Charente-Maritime (17);Plage sauvage;Gratuit;45.8600, -1.3300;https://www.charente-maritime-tourisme.fr
+Le Village de Sainte-Suzanne;Pays de la Loire;Mayenne (53);Village m�di�val;Gratuit;48.2230, -0.8060;https://www.sainte-suzanne.fr
+Le Site du Cap Fr�hel;Bretagne;C�tes-d?Armor (22);Falaises / Nature;Gratuit;48.6380, -2.3940;https://www.frehel-tourisme.fr
+Les Bassins de la Cascade de Sillans;Provence-Alpes-C�te d?Azur;Var (83);Cascade / Nature;Gratuit;43.4940, 6.2080;https://www.sillans-la-cascade.fr
+Le Village de Collonges-la-Rouge;Nouvelle-Aquitaine;Corr�ze (19);Village rouge en gr�s;Gratuit;45.1970, 1.6750;https://www.collonges-la-rouge.fr
+La Cath�drale de Strasbourg;Grand Est;Bas-Rhin (67);Monument historique;Gratuit ou payant;48.5820, 7.7500;https://www.cathedrale-strasbourg.fr
+Le Fort de Frouard;Grand Est;Meurthe-et-Moselle (54);Fort militaire;Gratuit;48.6442, 6.1850;https://www.forteresse-frouard.fr
+Le Vallon des Carmes;Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06);Vallon secret;Gratuit;43.7131, 7.3132;Local, peu d'infos en ligne
+Le Village abandonn� de Goussainville;�le-de-France;Val-d?Oise (95);Village fant�me;Gratuit;49.0211, 2.2347;https://www.ghosttowns.com/fr/goussainville
+La Chapelle Saint-S�bastien des Roches;Auvergne-Rh�ne-Alpes;Puy-de-D�me (63);Chapelle isol�e;Gratuit;45.7581, 3.0912;https://www.auvergne-tourisme.info
+La Vall�e des Saints (site moins connu);Bretagne;C�tes-d?Armor (22);Sculptures g�antes;6-8 ?;48.2990, -3.1100;https://www.valleedessaints.com
+Le Trou de Bozouls;Occitanie;Aveyron (12);Canyon naturel;Gratuit;44.5614, 2.8242;https://www.aveyron-tourisme.com
+Le Village Troglodyte de Perrier;Auvergne-Rh�ne-Alpes;Puy-de-D�me (63);Village troglodyte;Gratuit;45.7460, 3.0721;https://www.troglodytes-perrier.fr
+La Cascade de la Druise;Auvergne-Rh�ne-Alpes;Dr�me (26);Cascade secr�te;Gratuit;44.7631, 5.3127;Local, acc�s difficile
+Le Tunnel de la Rique;Nouvelle-Aquitaine;Gironde (33);Tunnel abandonn�;Gratuit;44.8683, -0.5432;Exploration urbaine
+Le Plateau des Mille �tangs;Bourgogne-Franche-Comt�;Haute-Sa�ne (70);Paysage secret;Gratuit;47.8000, 6.4000;https://www.bourgogne-tourisme.com
+Le Moulin de la Roche;Pays de la Loire;Loire-Atlantique (44);Moulin isol�;Gratuit;47.3000, -1.6900;Patrimoine local
+La Plage des Vieilles;Corse;Corse-du-Sud (2A);Plage isol�e;Gratuit;41.6170, 8.8500;Peu connue des touristes
+Le Fort de la Rev�re;Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06);Fort abandonn�;Gratuit;43.7856, 7.3364;https://www.fort-la-revere.fr
+La Mine d?Argent de Saint-Pierre;Nouvelle-Aquitaine;Haute-Vienne (87);Ancienne mine;Gratuit;45.8642, 1.3550;Visite ext�rieure
+Les Rochers de la Justice;Occitanie;Ari�ge (09);Formation rocheuse;Gratuit;42.8773, 1.7476;Sentier peu fr�quent�
+Le Village d?Hauterives;Auvergne-Rh�ne-Alpes;Dr�me (26);Village pittoresque;Gratuit;45.0901, 5.0461;https://www.hauterives.fr
+Le Chemin des G�ants;Normandie;Orne (61);Sentier secret;Gratuit;48.7519, 0.0670;Local, randonn�e sauvage
+Le Ch�teau de Blandy-les-Tours;�le-de-France;Seine-et-Marne (77);Ch�teau fortifi�;5-7 ?;48.6064, 2.7792;https://www.blandylesTours.fr
+Le Saut de la Pucelle;Occitanie;Ari�ge (09);Cascade sauvage;Gratuit;42.9614, 1.7695;Randonn�e locale
+Les Vestiges de la Mine d?Or de Salsigne;Occitanie;Aude (11);Site industriel;Gratuit;43.2067, 2.2693;Exploration ext�rieure
+La Chapelle Saint-Michel de Grandmont;Occitanie;H�rault (34);Chapelle isol�e;Gratuit;43.4831, 3.6118;Patrimoine local
+La Vall�e de la Loue;Bourgogne-Franche-Comt�;Doubs (25);Vall�e secr�te;Gratuit;47.2333, 6.2500;https://www.doubs-tourisme.com
+Le Bois de Vincennes;�le-de-France;Paris (75);For�t urbaine;Gratuit;48.8350, 2.4330;https://www.paris.fr
+Le Jardin de Saint Adrien;Nouvelle-Aquitaine;Dordogne (24);Jardin secret;Gratuit;44.9312, 0.8321;Patrimoine local
+La Cascade d?Angon;Auvergne-Rh�ne-Alpes;Haute-Savoie (74);Cascade cach�e;Gratuit;45.9098, 6.1360;Randonn�e facile
+Le Chemin des Bories;Provence-Alpes-C�te d?Azur;Vaucluse (84);Sentier insolite;Gratuit;43.9314, 5.3778;https://www.bories-vaucluse.fr
+Le Moulin des Tours;Pays de la Loire;Maine-et-Loire (49);Moulin abandonn�;Gratuit;47.3211, -0.5487;Patrimoine local
+Le Fort de la Bastille;Auvergne-Rh�ne-Alpes;Is�re (38);Fort militaire;Gratuit;45.1901, 5.7285;https://www.fort-bastille.fr
+Le Village de Rognes;Provence-Alpes-C�te d?Azur;Bouches-du-Rh�ne (13);Village proven�al;Gratuit;43.6460, 5.3810;https://www.rognes.fr
+Le Sentier des 25 bosses;�le-de-France;Seine-et-Marne (77);Sentier sportif;Gratuit;48.7887, 2.6327;Randonn�e sportive
+La For�t des Singes;Nouvelle-Aquitaine;Dordogne (24);R�serve animale;12-15 ?;44.9574, 0.8912;https://www.la-foret-des-singes.fr
+Les Gorges du Fier;Auvergne-Rh�ne-Alpes;Haute-Savoie (74);Gorges naturelles;7-9 ?;45.9089, 6.0995;https://www.gorgesdufier.com
+Le Village de Bruniquel;Occitanie;Tarn-et-Garonne (82);Village m�di�val;Gratuit;44.0303, 1.5600;https://www.bruniquel.fr
+La Roche de Solutr�;Bourgogne-Franche-Comt�;Sa�ne-et-Loire (71);Rocher embl�matique;Gratuit;46.3991, 4.7761;https://www.saint-emilion-tourisme.fr
+Le Ch�teau de Puilaurens;Occitanie;Aude (11);Ch�teau cathare;6-8 ?;42.8770, 2.2400;https://www.chateaux-cathares.fr
+Les Salines de Salin-de-Giraud;Provence-Alpes-C�te d?Azur;Bouches-du-Rh�ne (13);Salines naturelles;Gratuit;43.4094, 4.7427;https://www.camargue.fr
+Le Chemin des Merveilles;Provence-Alpes-C�te d?Azur;Alpes-Maritimes (06);Sentier historique;Gratuit;43.7339, 7.3313;https://www.chemin-merveilles.com
+Le Cirque de Consolation;Bourgogne-Franche-Comt�;Doubs (25);Cirque naturel;Gratuit;47.0461, 6.4696;https://www.doubs-tourisme.com
+La For�t d?Orient;Grand Est;Aube (10);For�t et lacs;Gratuit;48.2864, 4.3453;https://www.lacsaube.com
+Le Plateau d?Aubrac;Occitanie;Loz�re (48);Plateau naturel;Gratuit;44.6750, 3.2822;https://www.aubrac.com
+Le Parc des F�lins;�le-de-France;Seine-et-Marne (77);Parc animalier;15-20 ?;48.6063, 2.7845;https://www.parcdesfelins.fr
+Le Jardin des Plantes de Nantes;Pays de la Loire;Loire-Atlantique (44);Jardin botanique;Gratuit;47.2130, -1.5557;https://www.nantes.fr
+La Cit� M�di�vale de P�rouges;Auvergne-Rh�ne-Alpes;Ain (01);Village m�di�val;Gratuit;45.9642, 5.1158;https://www.perouges.org
+La For�t d?Eawy;Normandie;Seine-Maritime (76);For�t ancienne;Gratuit;49.6084, 0.9768;https://www.normandie-tourisme.fr
+Le Ch�teau de Monts�gur;Occitanie;Ari�ge (09);Ch�teau cathare;6-7 ?;42.8765, 1.8105;https://www.chateau-montsegur.fr
+Les Gorges de l?Ard�che;Auvergne-Rh�ne-Alpes;Ard�che (07);Gorges naturelles;Gratuit;44.4340, 4.4067;https://www.ardeche-guide.com
+Le Lac de Guerl�dan;Bretagne;C�tes-d?Armor (22);Lac artificiel;Gratuit;48.1692, -3.2021;https://www.bretagne.com
+Le Village de La Roque-Gageac;Nouvelle-Aquitaine;Dordogne (24);Village m�di�val;Gratuit;44.8225, 0.8903;https://www.laroquegageac.com
+Le Mont Aigoual;Occitanie;Gard (30);Sommet montagneux;Gratuit;44.0662, 3.6318;https://www.cevennes-tourisme.fr
+Le Village de Gerberoy;Hauts-de-France;Oise (60);Village fleuri;Gratuit;49.5520, 2.5700;https://www.gerberoy.fr

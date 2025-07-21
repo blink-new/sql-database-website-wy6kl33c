@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Couleurs améliorées inspirées du design */
+    --primary-color: #3a86ff;
+    --secondary-color: #8338ec;
+    --dark-color: #212529;
+    --light-color: #f8f9fa;
+    --success-color: #38b000;
+    --warning-color: #ffbe0b;
+    
+    /* Variables Tailwind existantes */
+    --background: 0 0% 98%;
+    --foreground: 222 84% 5%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 84% 5%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 84% 5%;
+    --primary: 221 83% 53%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222 84% 5%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+    --accent: 38 92% 50%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 221 83% 53%;
+    --chart-1: 221 83% 53%;
+    --chart-2: 38 92% 50%;
+    --chart-3: 142 76% 36%;
+    --chart-4: 262 83% 58%;
+    --chart-5: 0 84% 60%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222 84% 5%;
+    --foreground: 210 40% 98%;
+    --card: 222 84% 5%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222 84% 5%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 221 83% 53%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 217 33% 17%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 38 92% 50%;
+    --accent-foreground: 222 84% 5%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217 33% 17%;
+    --input: 217 33% 17%;
+    --ring: 221 83% 53%;
+    --chart-1: 221 83% 53%;
+    --chart-2: 38 92% 50%;
+    --chart-3: 142 76% 36%;
+    --chart-4: 262 83% 58%;
+    --chart-5: 0 84% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Inter, system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+  }
+}
+
+/* Styles améliorés pour les cartes */
+@layer components {
+  .location-card {
+    @apply transition-all duration-300 ease-in-out border-none rounded-xl overflow-hidden shadow-lg hover:shadow-2xl hover:-translate-y-2;
+  }
+  
+  .location-card:hover .card-img-top {
+    @apply scale-105;
+  }
+  
+  .card-img-top {
+    @apply transition-transform duration-500 ease-in-out object-cover;
+
+    height: 200px;
+  }
+  
+  /* Boutons améliorés */
+  .btn-enhanced {
+    @apply font-medium px-5 py-2 rounded-full transition-all duration-300;
+
+    background-image: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    background-size: 200% auto;
+    border: none;
+  }
+  
+  .btn-enhanced:hover {
+    background-position: right center;
+
+    @apply -translate-y-0.5 shadow-lg;
+
+    box-shadow: 0 5px 15px rgb(58 134 255 / 40%);
+  }
+  
+  /* En-tête avec effet de parallaxe */
+  .hero-header {
+    background: linear-gradient(135deg, var(--secondary-color), var(--primary-color)),
+                url('https://images.unsplash.com/photo-1503917988258-f87a78e3c995?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80') no-repeat center center;
+    background-size: cover;
+
+    @apply relative text-white text-center;
+
+    padding: 120px 0;
+  }
+  
+  .hero-header::before {
+    content: '';
+
+    @apply absolute inset-0 bg-black bg-opacity-50;
+
+    z-index: 0;
+  }
+  
+  .hero-content {
+    @apply relative z-10;
+  }
+  
+  /* Titres de section avec ligne décorative */
+  .section-title {
+    @apply relative mb-10 text-center;
+  }
+  
+  .section-title::after {
+    content: '';
+
+    @apply block w-20 h-1 mx-auto mt-4 rounded-sm;
+
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+  }
+  
+  /* Effets de survol */
+  .hover-effect {
+    @apply transition-transform duration-300 ease-in-out hover:scale-105;
+  }
+  
+  /* Animations d'apparition */
+  .animate-on-scroll {
+    @apply opacity-0 translate-y-4 transition-all duration-700 ease-out;
+  }
+  
+  .animate-on-scroll.visible {
+    @apply opacity-100 translate-y-0;
+  }
+  
+  /* Badges améliorés */
+  .badge-enhanced {
+    @apply px-3 py-1 rounded-full text-xs font-medium;
+  }
+  
+  .badge-region {
+    @apply bg-blue-100 text-blue-800;
+  }
+  
+  .badge-type {
+    @apply bg-green-100 text-green-800;
+  }
+  
+  /* Navigation avec effet de scroll */
+  .navbar-scrolled {
+    @apply bg-gray-900 shadow-lg;
+
+    transition: all 0.3s ease;
+  }
+}
