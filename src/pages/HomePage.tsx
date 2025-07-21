@@ -4,6 +4,7 @@ import { MapPin, Building, Mountain, TreePine, Star } from 'lucide-react'
 import blink from '@/blink/client'
 import { Lieu } from '@/types/lieu'
 import { setupScrollAnimations, animateStats } from '@/utils/animations'
+import { autoImportAllLieux } from '@/utils/autoImport'
 
 export default function HomePage() {
   const [stats, setStats] = useState({
@@ -60,6 +61,31 @@ export default function HomePage() {
 
   const [importing, setImporting] = useState(false)
   const [importMessage, setImportMessage] = useState('')
+
+  const handleAutoImport = async () => {
+    setImporting(true)
+    setImportMessage('🚀 Démarrage de l\'import automatique...')
+    
+    try {
+      setImportMessage('📥 Chargement et traitement des lieux...')
+      const result = await autoImportAllLieux()
+      
+      setImportMessage(`✅ Import terminé ! ${result.successCount} lieux importés avec succès${result.errorCount > 0 ? `, ${result.errorCount} erreurs` : ''}${result.skippedCount > 0 ? `, ${result.skippedCount} déjà existants` : ''}.`)
+      
+      // Recharger les données
+      setTimeout(() => {
+        loadData()
+        setImportMessage('')
+      }, 4000)
+      
+    } catch (error) {
+      console.error('Erreur lors de l\'import automatique:', error)
+      setImportMessage('❌ Erreur lors de l\'import automatique')
+      setTimeout(() => setImportMessage(''), 5000)
+    } finally {
+      setImporting(false)
+    }
+  }
 
   const importCSVData = async () => {
     setImporting(true)
@@ -267,15 +293,13 @@ export default function HomePage() {
               <button className="bg-blue-700 text-white font-medium px-8 py-4 rounded-full hover:bg-blue-800 transition-all duration-300 hover:-translate-y-1 shadow-lg">
                 ➕ Ajouter un lieu
               </button>
-              {stats.total === 0 && (
-                <button 
-                  onClick={importCSVData}
-                  disabled={importing}
-                  className="bg-orange-600 text-white font-medium px-8 py-4 rounded-full hover:bg-orange-700 transition-all duration-300 hover:-translate-y-1 shadow-lg disabled:opacity-50 disabled:cursor-not-allowed"
-                >
-                  {importing ? '⏳ Import en cours...' : '📥 Importer les lieux CSV'}
-                </button>
-              )}
+              <button 
+                onClick={handleAutoImport}
+                disabled={importing}
+                className="bg-orange-600 text-white font-medium px-8 py-4 rounded-full hover:bg-orange-700 transition-all duration-300 hover:-translate-y-1 shadow-lg disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                {importing ? '⏳ Import en cours...' : '🚀 Importer tous les lieux'}
+              </button>
             </div>
           </div>
           <div className="absolute inset-0 bg-black bg-opacity-10"></div>
