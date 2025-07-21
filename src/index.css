@@ -185,4 +185,21 @@
 
     transition: all 0.3s ease;
   }
+
+  /* Styles pour Leaflet */
+  .leaflet-container {
+    @apply rounded-lg;
+  }
+  
+  .leaflet-popup-content-wrapper {
+    @apply rounded-lg shadow-lg;
+  }
+  
+  .leaflet-popup-content {
+    @apply m-0;
+  }
+  
+  .custom-marker {
+    @apply border-none bg-transparent;
+  }
 }
