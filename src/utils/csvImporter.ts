@@ -6,8 +6,6 @@ export interface LieuCSV {
   departement: string
   typeLieu: string
   tarif: string
-  latitude: number
-  longitude: number
   gps: string
   lienUtile: string
 }
@@ -16,12 +14,7 @@ export const parseCSVLine = (line: string): LieuCSV | null => {
   // Split by semicolon and handle quoted fields
   const fields = line.split(';').map(field => field.trim().replace(/^"|"$/g, ''))
   
-  if (fields.length < 9) return null
-  
-  const latitude = parseFloat(fields[5])
-  const longitude = parseFloat(fields[6])
-  
-  if (isNaN(latitude) || isNaN(longitude)) return null
+  if (fields.length < 7) return null
   
   return {
     lieu: fields[0],
@@ -29,23 +22,47 @@ export const parseCSVLine = (line: string): LieuCSV | null => {
     departement: fields[2],
     typeLieu: fields[3],
     tarif: fields[4],
-    latitude,
-    longitude,
-    gps: fields[7],
-    lienUtile: fields[8]
+    gps: fields[5],
+    lienUtile: fields[6]
+  }
+}
+
+export const parseGPS = (gpsString: string): { latitude: number, longitude: number } | null => {
+  try {
+    // Format: "48.6361, -1.5115" ou "GPS (lat, long)"
+    const cleanGps = gpsString.replace(/GPS \(lat, long\)/g, '').trim()
+    if (!cleanGps) return null
+    
+    const coords = cleanGps.split(',').map(coord => parseFloat(coord.trim()))
+    if (coords.length === 2 && !isNaN(coords[0]) && !isNaN(coords[1])) {
+      return {
+        latitude: coords[0],
+        longitude: coords[1]
+      }
+    }
+    return null
+  } catch {
+    return null
   }
 }
 
 export const importCSVData = async (csvContent: string, userId: string) => {
   const lines = csvContent.split('\n').filter(line => line.trim())
-  const header = lines[0] // Skip header
-  const dataLines = lines.slice(1)
+  const dataLines = lines.slice(1) // Skip header
   
   const importedLieux = []
+  let successCount = 0
+  let errorCount = 0
   
   for (const line of dataLines) {
     const lieu = parseCSVLine(line)
-    if (!lieu) continue
+    if (!lieu) {
+      errorCount++
+      continue
+    }
+    
+    // Parse GPS coordinates
+    const gpsCoords = parseGPS(lieu.gps)
     
     try {
       const result = await blink.db.lieux.create({
@@ -55,8 +72,8 @@ export const importCSVData = async (csvContent: string, userId: string) => {
         departement: lieu.departement,
         typeLieu: lieu.typeLieu,
         tarif: lieu.tarif,
-        latitude: lieu.latitude,
-        longitude: lieu.longitude,
+        latitude: gpsCoords?.latitude || 0,
+        longitude: gpsCoords?.longitude || 0,
         gps: lieu.gps,
         lienUtile: lieu.lienUtile,
         userId: userId,
@@ -65,12 +82,19 @@ export const importCSVData = async (csvContent: string, userId: string) => {
       })
       
       importedLieux.push(result)
+      successCount++
     } catch (error) {
       console.error('Erreur lors de l\'import du lieu:', lieu.lieu, error)
+      errorCount++
     }
   }
   
-  return importedLieux
+  return {
+    imported: importedLieux,
+    successCount,
+    errorCount,
+    total: dataLines.length
+  }
 }
 
 export const loadCSVFromPublic = async (): Promise<string> => {
